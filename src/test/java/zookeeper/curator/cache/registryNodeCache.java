@@ -11,6 +11,8 @@ import zookeeper.curator.CuratorBase;
  * @author 程治玮
  * @since 2021/1/25 8:35 下午
  */
+
+//循环监听节点数据变化
 public class registryNodeCache extends CuratorBase {
     @Test
     public void registryNodeCache() {
