@@ -7,7 +7,7 @@ import org.junit.Test;
 import zookeeper.curator.CuratorBase;
 
 /**
- * NodeCache是用来监听节点数据的变化，包括增删查改。但是NodeCache 并不能获取是哪种事件类型。
+ * NodeCache是用来监听节点数据的变化，包括增删查改。但是NodeCache并不能获取是哪种事件类型。
  * @author 程治玮
  * @since 2021/1/25 8:35 下午
  */
